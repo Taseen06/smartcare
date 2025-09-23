@@ -9,6 +9,7 @@ const Contact = () => {
 
         <div className="contact-details">
           <p><strong>Email:</strong> smartcare@example.com</p>
+          
           <p><strong>Phone:</strong> +880 1234-567890</p>
           <p><strong>Address:</strong> 123 SmartCare Avenue, Dhaka, Bangladesh</p>
         </div>
