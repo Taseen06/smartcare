@@ -7,5 +7,5 @@ export const db = await mysql.createPool({
     password: '',
     database: 'smartcare',
     waitForConnections: true,
-    connectionLimit: 10
+    connectionLimit: 100
 });
